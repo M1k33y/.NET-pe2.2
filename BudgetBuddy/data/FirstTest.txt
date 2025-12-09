@@ -1,0 +1,55 @@
+BudgetBuddy Console - type 'help' for commands.
+> help
+Commands:
+import <file1.csv> [file2.csv ...]
+list all
+list month <yyyy-MM>
+stats month <yyyy-MM>
+export json <path>
+export csv <path>
+exit
+> import data/jan.csv
+Imported: 3, Duplicates: 0, Malformed: 0
+> list all
+1 | 2025-01-03 | Salary | 3500 | Income
+2 | 2025-01-05 | Groceries | -120.45 | Food
+3 | 2025-01-08 | Electricity | -60.00 | Utilities
+> import data/jan.csv
+Imported: 0, Duplicates: 3, Malformed: 0
+> import data/malformed.csv
+Imported: 0, Duplicates: 0, Malformed: 2
+> import data/jan.csv data/feb.csv
+Imported: 2, Duplicates: 3, Malformed: 0
+> list all
+1 | 2025-01-03 | Salary | 3500 | Income
+2 | 2025-01-05 | Groceries | -120.45 | Food
+3 | 2025-01-08 | Electricity | -60.00 | Utilities
+4 | 2025-02-01 | Salary | 3500 | Income
+5 | 2025-02-07 | Cafe | -7.75 | Food
+> list month 2025-01
+1 | 2025-01-03 | Salary | 3500 | Income
+2 | 2025-01-05 | Groceries | -120.45 | Food
+3 | 2025-01-08 | Electricity | -60.00 | Utilities
+> list month 2026-01
+No transactions found for 2026-01.
+> stats month 2025-01
+{
+  "income": 3500,
+  "expense": -180.45,
+  "net": 3319.55,
+  "topCats": [
+    {
+      "Category": "Food",
+      "Total": 120.45
+    },
+    {
+      "Category": "Utilities",
+      "Total": 60.00
+    }
+  ],
+  "avg": 1226.8166666666666666666666667
+}
+> export json out.json
+Exported JSON.
+> export csv out.csv
+Exported

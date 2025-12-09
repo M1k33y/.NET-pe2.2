@@ -1,0 +1,29 @@
+BudgetBuddy Console - type 'help' for commands.
+> help
+Commands:
+import <file1.csv> [file2.csv ...]
+list all
+list month <yyyy-MM>
+stats month <yyyy-MM>
+export json <path>
+export csv <path>
+exit
+by category <name>
+over <amount>
+search <text>
+stats yearly <yyyy>
+> import data/jan.csv
+Imported: 3, Duplicates: 0, Malformed: 0
+> export json out.json
+File 'out.json' already exists. Overwrite? (y/n)
+n
+Export cancelled.
+> export json out.json
+File 'out.json' already exists. Overwrite? (y/n)
+y
+Exported JSON.
+> export csv out.csv
+File 'out.csv' already exists. Overwrite? (y/n)
+n
+Export cancelled.
+>

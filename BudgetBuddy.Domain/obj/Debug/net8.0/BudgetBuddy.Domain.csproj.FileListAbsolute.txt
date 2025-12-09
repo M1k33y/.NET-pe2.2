@@ -1,0 +1,11 @@
+C:\Users\mmaciuc\source\repos\BudgetBuddy\BudgetBuddy.Domain\bin\Debug\net8.0\BudgetBuddy.Domain.deps.json
+C:\Users\mmaciuc\source\repos\BudgetBuddy\BudgetBuddy.Domain\bin\Debug\net8.0\BudgetBuddy.Domain.dll
+C:\Users\mmaciuc\source\repos\BudgetBuddy\BudgetBuddy.Domain\bin\Debug\net8.0\BudgetBuddy.Domain.pdb
+C:\Users\mmaciuc\source\repos\BudgetBuddy\BudgetBuddy.Domain\obj\Debug\net8.0\BudgetBuddy.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmaciuc\source\repos\BudgetBuddy\BudgetBuddy.Domain\obj\Debug\net8.0\BudgetBuddy.Domain.AssemblyInfoInputs.cache
+C:\Users\mmaciuc\source\repos\BudgetBuddy\BudgetBuddy.Domain\obj\Debug\net8.0\BudgetBuddy.Domain.AssemblyInfo.cs
+C:\Users\mmaciuc\source\repos\BudgetBuddy\BudgetBuddy.Domain\obj\Debug\net8.0\BudgetBuddy.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mmaciuc\source\repos\BudgetBuddy\BudgetBuddy.Domain\obj\Debug\net8.0\BudgetBuddy.Domain.dll
+C:\Users\mmaciuc\source\repos\BudgetBuddy\BudgetBuddy.Domain\obj\Debug\net8.0\refint\BudgetBuddy.Domain.dll
+C:\Users\mmaciuc\source\repos\BudgetBuddy\BudgetBuddy.Domain\obj\Debug\net8.0\BudgetBuddy.Domain.pdb
+C:\Users\mmaciuc\source\repos\BudgetBuddy\BudgetBuddy.Domain\obj\Debug\net8.0\ref\BudgetBuddy.Domain.dll

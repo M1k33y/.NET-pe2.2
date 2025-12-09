@@ -1,0 +1,15 @@
+C:\Users\mmaciuc\source\repos\BudgetBuddy\BudgetBuddy.Infrastructure\obj\Debug\net8.0\BudgetBuddy.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\mmaciuc\source\repos\BudgetBuddy\BudgetBuddy.Infrastructure\obj\Debug\net8.0\BudgetBuddy.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmaciuc\source\repos\BudgetBuddy\BudgetBuddy.Infrastructure\obj\Debug\net8.0\BudgetBuddy.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\mmaciuc\source\repos\BudgetBuddy\BudgetBuddy.Infrastructure\obj\Debug\net8.0\BudgetBuddy.Infrastructure.AssemblyInfo.cs
+C:\Users\mmaciuc\source\repos\BudgetBuddy\BudgetBuddy.Infrastructure\obj\Debug\net8.0\BudgetBuddy.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\mmaciuc\source\repos\BudgetBuddy\BudgetBuddy.Infrastructure\bin\Debug\net8.0\BudgetBuddy.Infrastructure.deps.json
+C:\Users\mmaciuc\source\repos\BudgetBuddy\BudgetBuddy.Infrastructure\bin\Debug\net8.0\BudgetBuddy.Infrastructure.dll
+C:\Users\mmaciuc\source\repos\BudgetBuddy\BudgetBuddy.Infrastructure\bin\Debug\net8.0\BudgetBuddy.Infrastructure.pdb
+C:\Users\mmaciuc\source\repos\BudgetBuddy\BudgetBuddy.Infrastructure\bin\Debug\net8.0\BudgetBuddy.Domain.dll
+C:\Users\mmaciuc\source\repos\BudgetBuddy\BudgetBuddy.Infrastructure\bin\Debug\net8.0\BudgetBuddy.Domain.pdb
+C:\Users\mmaciuc\source\repos\BudgetBuddy\BudgetBuddy.Infrastructure\obj\Debug\net8.0\BudgetBu.CAFF12CE.Up2Date
+C:\Users\mmaciuc\source\repos\BudgetBuddy\BudgetBuddy.Infrastructure\obj\Debug\net8.0\BudgetBuddy.Infrastructure.dll
+C:\Users\mmaciuc\source\repos\BudgetBuddy\BudgetBuddy.Infrastructure\obj\Debug\net8.0\refint\BudgetBuddy.Infrastructure.dll
+C:\Users\mmaciuc\source\repos\BudgetBuddy\BudgetBuddy.Infrastructure\obj\Debug\net8.0\BudgetBuddy.Infrastructure.pdb
+C:\Users\mmaciuc\source\repos\BudgetBuddy\BudgetBuddy.Infrastructure\obj\Debug\net8.0\ref\BudgetBuddy.Infrastructure.dll

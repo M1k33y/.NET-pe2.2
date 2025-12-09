@@ -1,0 +1,8 @@
+Id,Timestamp,Payee,Amount,Currency,Category
+4,2025-02-01,Salary,3500,USD,Income
+5,2025-02-07,Cafe,-7.75,USD,Food
+0,2025-01-01,Shop,-10,USD,Food
+3,2025-15-01,Store,-10,USD,Food
+4,2025-01-02,,20,USD,Food
+5,2025-01-02,Salary,2000000,USD,Income
+6,2025-01-02,Store,10,,Food
